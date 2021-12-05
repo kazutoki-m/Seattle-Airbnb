@@ -4,7 +4,7 @@
  - folium: I used folium package to create interactive maps that contain marker plots and choropleth plots. Other than this, I used libraries from Anaconda the distribution.
 
 ## Project Motivation
-I use "Kaggle Seattle Airbnb Open Data"(https://www.kaggle.com/airbnb/seattle) to understand the factors of determining rent price on Airbnb listings. I will look into this by exploring the following three sub-questions:
+To understand the factors of determining rent price on Airbnb listings, I use "Kaggle Seattle Airbnb Open Data"(https://www.kaggle.com/airbnb/seattle), which includes listings data in 2016. I will look into this by exploring the following three sub-questions:
  1. When are the busier days or seasons in Seattle? What are the average prices then?
  2. What is the number of listings and the median price over night in the neighborhood?
  3. Which factors have a strong correlation with the price of listings?
