@@ -1,5 +1,7 @@
 # Seattle-Airbnb
 
+My Medium post on this project is here. (https://medium.com/@kitozuka/want-to-run-a-vacation-rental-understanding-airbnb-rent-prices-in-seattle-d64dc15b8e28)
+
 ## Installation
  - folium: I used folium package to create interactive maps that contain marker plots and choropleth plots. Other than this, I used libraries from Anaconda the distribution.
 
